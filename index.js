@@ -148,7 +148,7 @@ getLastReview(reviews);
   console.log(newArray);
 }
 
-getReviewByRating(reviews, 4);
+getReviewByRating(reviews, 4  );
 
   
 /** STRETCH 2: Write a function called 'getLongestReview' that returns an array containing all reviews longer than 15 words. 
